@@ -11,7 +11,7 @@ internal class Program
 
         if (a == 0)
         {
-            Console.WriteLine("Bu ədəd 0-a bərabərdir. Nə müsbət, nə də mənfidir!");
+            Console.WriteLine("Bu ədəd 0-a bərabərdir. Nə cüt, nə də təkdir!");
             
         }
         else if (a % 2 == 0)
